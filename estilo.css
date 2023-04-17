@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: rgb(255, 254, 255);
+}
+
+div.container{
+    width: 100%;
+    max-width: 450px;
+    background-color:#948e99;
+    padding: 15px 2%;
+    border-radius: 15px;
+}
+
